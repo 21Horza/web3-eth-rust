@@ -1,0 +1,11 @@
+/Users/iliashuianov/projects/rust_projects/web3-rust-eth/target/debug/deps/dotenv-e4f104f8b66e8e26.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/iliashuianov/projects/rust_projects/web3-rust-eth/target/debug/deps/libdotenv-e4f104f8b66e8e26.rlib: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/iliashuianov/projects/rust_projects/web3-rust-eth/target/debug/deps/dotenv-e4f104f8b66e8e26.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/parse.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/errors.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/iter.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/dotenv-0.15.0/src/find.rs:

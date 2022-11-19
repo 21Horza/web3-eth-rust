@@ -1,0 +1,1 @@
+/Users/iliashuianov/projects/rust_projects/web3-rust-eth/target/debug/web3-rust-eth: /Users/iliashuianov/projects/rust_projects/web3-rust-eth/src/erc20_abi.json /Users/iliashuianov/projects/rust_projects/web3-rust-eth/src/main.rs
