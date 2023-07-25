@@ -1,4 +1,4 @@
-BASICS OF W3 IN RUST WITH ETH
+Basics of W3 in Rust with ETH
 ======
 W3 interaction with Eth in Rust to retrieve info from Etherscan.
 This example includes SOLANA token address, which can be easily changed into another one in ``main.rs`` file.
